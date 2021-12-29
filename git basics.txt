@@ -1,0 +1,8 @@
+git init - создание репозитория
+git status - статус
+git add <file> - добавить в репозиторий
+git commit -m "comment"
+
+git remote add origin <link>
+git branch -M main
+git push -u origin main
